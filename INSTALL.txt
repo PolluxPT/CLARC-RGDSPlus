@@ -1,0 +1,10 @@
+CLARC RGDS+ v1.0.0
+
+1. Copy the APPS folder from this ZIP to the root of your SD card.
+2. Copy your own DRM-free Linux clarc_1.0.0.3.tar.gz to APPS/CLARC_RGDSPlus/.
+3. Launch CLARC from the handheld Apps menu. Let the first preparation finish.
+
+No game files are included. Keep the Linux archive compressed.
+D-pad/left stick move; L1/R1 rotate; START pauses;
+hold SELECT+START for 1.5 seconds to exit.
+Read README.md for the complete instructions.
